@@ -18,7 +18,7 @@
 
 ### Currently exploring
 
-[![Learning](https://skillicons.dev/icons?i=nestjs,bun)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nestjs,bun,firebase)](https://skillicons.dev)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Featured Projects
