@@ -1,16 +1,39 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F5C8B&height=120&section=header)
 
-<!--
-**mikeislas06/mikeislas06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1F5C8B&width=500&lines=Hey%2C+I'm+Miguel+Islas;Frontend+Software+Engineer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+🏢  Most recently at Walmart, building internal tooling used by 100+ engineers
+🛠️  5+ years of experience across frontend, cloud, and software testing
+🎓  Master's in Software Engineering | Bachelor's in Digital Systems & Robotics (ITESM)
+🌎  Based in Puebla, Mexico | Open to remote
+🎮  Huge Super Mario fan
+```
+
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,graphql,html,css,sass,tailwind,materialui,redux,mongodb,postgresql,jest,azure,git,github,vscode)](https://skillicons.dev)
+
+### Currently exploring
+
+[![Learning](https://skillicons.dev/icons?i=python,docker,aws)](https://skillicons.dev)
+
+### Featured Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **LingoNext** | Language learning app with courses, progress tracking, leaderboard, and payments | Next.js, TypeScript, Tailwind, Drizzle, Stripe, Clerk | [Live Demo](https://lingo-next-maig.vercel.app/) |
+| **ProShopMERN** | Full-stack eCommerce with PayPal, JWT auth, and admin panel | React, Node.js, Express, MongoDB, Redux | [Repo](https://github.com/mikeislas06/ProShopMERN) |
+
+### Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelislasg/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isgromiguel@gmail.com)
+
+### Recruiter?
+
+> **[Download my resume](https://drive.google.com/file/d/1HUXc4BSkCFf2gU-uuL-ZyCP5IR_0icb_/view?usp=drive_link)**
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1F5C8B&height=120&section=footer)
