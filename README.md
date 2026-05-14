@@ -18,7 +18,8 @@
 
 ### Currently exploring
 
-[![Learning](https://skillicons.dev/icons?i=python,docker,aws)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nestjs,bun)](https://skillicons.dev)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Featured Projects
 
@@ -26,6 +27,10 @@
 |---------|-------------|------|------|
 | **LingoNext** | Language learning app with courses, progress tracking, leaderboard, and payments | Next.js, TypeScript, Tailwind, Drizzle, Stripe, Clerk | [Live Demo](https://lingo-next-maig.vercel.app/) |
 | **ProShopMERN** | Full-stack eCommerce with PayPal, JWT auth, and admin panel | React, Node.js, Express, MongoDB, Redux | [Repo](https://github.com/mikeislas06/ProShopMERN) |
+
+### Languages
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mikeislas06&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true)
 
 ### Connect with me!
 
