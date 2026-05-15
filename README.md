@@ -19,6 +19,8 @@
 ### Currently exploring
 
 [![Learning](https://skillicons.dev/icons?i=nestjs,bun,firebase)](https://skillicons.dev)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Featured Projects
