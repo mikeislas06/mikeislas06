@@ -28,6 +28,7 @@
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | **LingoNext** | Language learning app with courses, progress tracking, leaderboard, and payments | Next.js, TypeScript, Tailwind, Drizzle, Stripe, Clerk | [Live Demo](https://lingo-next-maig.vercel.app/) |
+| **Sequence Companion** | Real-time multiplayer companion for the Sequence board game with rooms, teams, and live gameplay tracking | Next.js 16, TypeScript, Tailwind, Socket.IO, Framer Motion, Node.js, Express | [Live Demo](https://sequence-companion.vercel.app/) \| [Client](https://github.com/mikeislas06/Sequence-Companion-App-client) \| [Server](https://github.com/mikeislas06/Sequence-Companion-App-server) |
 | **ProShopMERN** | Full-stack eCommerce with PayPal, JWT auth, and admin panel | React, Node.js, Express, MongoDB, Redux | [Repo](https://github.com/mikeislas06/ProShopMERN) |
 
 ### Languages
