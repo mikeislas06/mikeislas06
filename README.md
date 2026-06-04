@@ -42,6 +42,6 @@
 
 ### Recruiter?
 
-> **[Download my resume](https://drive.google.com/file/d/1HUXc4BSkCFf2gU-uuL-ZyCP5IR_0icb_/view?usp=drive_link)**
+> **[Download my resume](https://drive.google.com/file/d/1ckFUjjLdaH2oDVk1rPSTglmhCkFJTccg/view?usp=drive_link)**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=1F5C8B&height=120&section=footer)
