@@ -29,6 +29,9 @@
 |---------|-------------|------|------|
 | **LingoNext** | Language learning app with courses, progress tracking, leaderboard, and payments | Next.js, TypeScript, Tailwind, Drizzle, Stripe, Clerk | [Live Demo](https://lingo-next-maig.vercel.app/) |
 | **Sequence Companion** | Real-time multiplayer companion for the Sequence board game with rooms, teams, and live gameplay tracking | Next.js 16, TypeScript, Tailwind, Socket.IO, Framer Motion, Node.js, Express | [Live Demo](https://sequence-companion.vercel.app/) \| [Client](https://github.com/mikeislas06/Sequence-Companion-App-client) \| [Server](https://github.com/mikeislas06/Sequence-Companion-App-server) |
+| **Microfrontend WebSockets** | Host/Shell application to orchestrate and present independently deployed real-time applications using Runtime Integration | Next.js, React, TypeScript, Microfrontends | [Live Demo](https://microfrontend-web-sockets.vercel.app/) \| [Repo](https://github.com/mikeislas06/microfrontend-WebSockets) |
+| **WebSockets Maps** | Real-time interface to visualize and interact with connected users on a dynamic map | React 19, Vite, TypeScript, Mapbox GL JS, WebSockets | [Live Demo](https://web-sockets-maps.vercel.app/) \| [Client](https://github.com/mikeislas06/WebSockets-Maps-client) |
+| **Political Parties** | Real-time interface to visualize and interact with political party data using dynamic graphs | React 19, Vite, TypeScript, Chart.js, WebSockets | [Live Demo](https://political-parties-client.vercel.app/) \| [Client](https://github.com/mikeislas06/PoliticalParties-client) |
 | **ProShopMERN** | Full-stack eCommerce with PayPal, JWT auth, and admin panel | React, Node.js, Express, MongoDB, Redux | [Repo](https://github.com/mikeislas06/ProShopMERN) |
 
 ### Languages
